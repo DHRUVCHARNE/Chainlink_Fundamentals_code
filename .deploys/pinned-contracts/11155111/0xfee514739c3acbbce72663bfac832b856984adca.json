@@ -1,6 +1,6 @@
 {
   "name": "MyERC20",
-  "address": "0x50415dfb69560a58f14e709884aa8d73b2fa3c04",
+  "address": "0xfee514739c3acbbce72663bfac832b856984adca",
   "abi": [
     {
       "inputs": [],
@@ -573,5 +573,5 @@
     }
   ],
   "filePath": "MyWorkSpace/contracts/artifacts/MyERC20.sol",
-  "pinnedAt": 1761041901473
+  "pinnedAt": 1761153156211
 }
